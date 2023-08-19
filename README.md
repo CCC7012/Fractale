@@ -2,9 +2,9 @@
 Une fractale / A fractal
 
 
-### Result
+### Résultat / Result
 
-
+<img src="fractale.png" width="480">
 
 
 ### Code
