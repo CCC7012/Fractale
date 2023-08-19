@@ -2,7 +2,7 @@
 Une fractale / A fractal
 
 
-```
+```python
 from turtle import *
 
 def carre(lg) :
@@ -23,4 +23,4 @@ speed(99999999)
 goto(0,-50)
 pendown()
 carre(200)
-exitonclick()```
+exitonclick()
