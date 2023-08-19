@@ -13,8 +13,9 @@ def carre(lg) :
             right(135)
         forward(lg/2)
 
+title("Fractale")
 penup()
-speed(99999999)
+speed(0)
 goto(0,-50)
 pendown()
 carre(200)
