@@ -1,5 +1,5 @@
 # Fractale
-Une fractale faite avec *Turtle* / A fractal built with *Turtle*
+Une fractale faite avec *turtle* / A fractal built with *turtle*
 
 
 ### Résultat / Result
