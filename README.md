@@ -4,7 +4,7 @@ Une fractale faite avec *turtle* / A fractal built with *turtle*
 
 ### Résultat / Result
 
-<img src="fractale.png" width="480">
+![Fractale](fractale.png)
 
 
 ### Code
